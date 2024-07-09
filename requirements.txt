@@ -1,0 +1,6 @@
+### requirements.txt
+
+```plaintext
+numpy
+quspin
+pyscf
