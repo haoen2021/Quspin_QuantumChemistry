@@ -7,7 +7,7 @@ Clone the repository:
 
   ```
     git clone https://github.com/haoen2021/Quspin_QuantumChemistry.git
-    cd molecular_hamiltonian
+    cd Quspin_QuantumChemistry
   ```
 Install the required Python packages:
 
@@ -32,3 +32,7 @@ By default, the Hamiltonian matrix will be saved as `Hmat_{mol_dub}.npy` in the 
   FCI from pyscf = -7.882761848745533
   Hamiltonian matrix saved to Hmat_LiH.npy
   ```
+## Acknowledgements
+
++ [QuSpin](https://github.com/weinbe58/QuSpin)
++ [PySCF](https://github.com/pyscf/pyscf)
