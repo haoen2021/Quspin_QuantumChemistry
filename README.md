@@ -32,6 +32,10 @@ By default, the Hamiltonian matrix will be saved as `Hmat_{mol_dub}.npy` in the 
   FCI from pyscf = -7.882761848745533
   Hamiltonian matrix saved to Hmat_LiH.npy
   ```
+## Update
+
+The `hf0722.ipynb` provides a tutorial code for understanding Hartree-Fock method.
+
 ## Acknowledgements
 
 + [QuSpin](https://github.com/weinbe58/QuSpin)
